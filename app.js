@@ -133,4 +133,4 @@ document.querySelector('#tech-list').addEventListener('click', (e) => {
      UI.showAlert('Tech Removed ❎', 'warning');
 });
 
-// Powered by Chakra 🧬
+// Powered by Chakra
